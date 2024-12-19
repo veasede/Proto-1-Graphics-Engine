@@ -1,0 +1,18 @@
+[package]
+name = "proto-1_graphics_engine"
+version = "0.0.1"
+edition = "2021"
+license = "Apache-2.0"
+authors = [
+    "siaeyy",
+    "ibrahimtatliseKs",
+    "Emiratio",
+]
+
+[dependencies]
+vulkano = "0.34"
+vulkano-win = "0.34"
+vulkano-shaders = "0.34"
+vulkano-util = "0.34"
+winit = "0.28"
+
